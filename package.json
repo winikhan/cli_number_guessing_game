@@ -1,0 +1,18 @@
+{
+  "name": "cli_number_guessing_name_by_waniza_khan",
+  "version": "1.0.0",
+  "description": "This is a number guessing game which is based on cli.",
+  "main": "index.js",
+  "type": "module",
+  "bin" :"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19"
+  }
+}
